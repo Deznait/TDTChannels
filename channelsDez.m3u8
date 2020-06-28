@@ -7,22 +7,22 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" group-title="Generalistas" tvg-name="Antena 3",Antena 3
-https://graph.facebook.com/antena3/picture?width=200&height=200
+https://livestartover.atresmedia.com/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="Generalistas" tvg-name="Cuatro",Cuatro
-https://www.mitele.es/directo/cuatro
+http://linear02-i.akamaihd.net/hls/live/837811/cuatro/master.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-https://www.mitele.es/directo/telecinco
+http://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8
 
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="Generalistas" tvg-name="laSexta",laSexta
-https://www.atresplayer.com/directos/lasexta/
+https://livestartover.atresmedia.com/lasexta/master.m3u8
 
 #EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Generalistas" tvg-name="Neox",Neox
-https://www.atresplayer.com/directos/neox/
+https://livestartover.atresmedia.com/geoneox/master.m3u8
 
 #EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Generalistas" tvg-name="Nova",Nova
-https://www.atresplayer.com/directos/nova/
+https://livestartover.atresmedia.com/geonova/master.m3u8
 
 #EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200" group-title="Generalistas" tvg-name="Mega",Mega
 https://www.atresplayer.com/directos/mega/
@@ -31,22 +31,22 @@ https://www.atresplayer.com/directos/mega/
 https://www.atresplayer.com/directos/atreseries/
 
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF
-https://www.mitele.es/directo/fdf
+http://linear02-i.akamaihd.net/hls/live/837813/fdf/master.m3u8
 
 #EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Energy",Energy
 https://www.mitele.es/directo/energy
 
 #EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas" tvg-name="Divinity",Divinity
-https://www.mitele.es/directo/divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Be Mad",Be Mad
-https://www.mitele.es/directo/bemad
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200" group-title="Generalistas" tvg-name="Paramount Network",Paramount Network
-https://www.paramountnetwork.es/en-directo/4ypes1/paramount
+http://paramount.live.flumotion.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
-https://www.cope.es/directos/trece
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
 
 #EXTINF:-1 tvg-id="TEN.TV" tvg-logo="https://graph.facebook.com/televisionten/picture?width=200&height=200" group-title="Generalistas" tvg-name="Ten",Ten
 https://tentv.es/
@@ -58,7 +58,7 @@ https://es.dplay.com/dmax/
 https://es.dplay.com/dkiss/
 
 #EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing
-https://www.mitele.es/directo/boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://www.rtve.es/infantil/directo/
